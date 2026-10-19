@@ -37,3 +37,6 @@ The project follows a rigorous data analysis framework:
   * Pinpointed the specific city zones contributing the highest cumulative grid load during high-risk overload windows.
   * Evaluated station type efficiencies, demonstrating how superchargers vs. normal chargers scale energy distribution.
   * Delivered a clean, reproducible SQL script optimized for technical recruiters and internship portfolio reviews.
+ 
+## 6. Screenshot
+* screenshot:https://github.com/akshaytyagi9511-stack/ev-charging-grid-sql-analysis/blob/main/image.png
